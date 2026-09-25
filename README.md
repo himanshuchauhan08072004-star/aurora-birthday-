@@ -3,6 +3,8 @@
 A cinematic, single-page, animated birthday surprise site. Built with
 React + Vite, Tailwind CSS, Framer Motion, and canvas-confetti.
 
+## LIVE : https://aurora-birthday.vercel.app/
+
 **This is the public demo/template version** — all names, stories, and media
 are placeholders. Fork it and personalize it for someone, or use it as a
 reference for the animation/interaction techniques inside.
